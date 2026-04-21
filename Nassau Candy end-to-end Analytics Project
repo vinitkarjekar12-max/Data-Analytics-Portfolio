@@ -1,0 +1,55 @@
+# 🍬 Nassau Candy Sales & Distribution Analysis
+
+## 📊 Project Overview
+
+This project focuses on analyzing sales performance, distribution efficiency, and business insights for Nassau Candy. The goal is to identify key trends, optimize operations, and support data-driven decision-making.
+
+---
+
+## 🎯 Objectives
+
+* Analyze sales performance across regions and products
+* Identify high-performing and low-performing segments
+* Evaluate distribution efficiency
+* Provide actionable business recommendations
+
+---
+
+## 🛠️ Tools & Technologies
+
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Tableau
+* Power BI
+
+---
+
+## 📂 Project Structure
+
+* **Python/** → Data cleaning, analysis, and EDA
+* **Tableau/** → Interactive dashboards
+* **PowerBI/** → Business intelligence reports
+* **Research-Paper/** → Detailed insights and recommendations
+
+---
+
+## 📈 Key Insights
+
+* Identified top-performing products and regions
+* Highlighted inefficiencies in distribution channels
+* Provided data-driven recommendations to improve sales and operations
+
+---
+
+## 🚀 Business Impact
+
+This analysis helps in:
+
+* Improving sales strategy
+* Optimizing distribution channels
+* Enhancing decision-making with data
+
+---
+
+## 🧠 Conclusion
+
+The project demonstrates how data analytics can be used to uncover insights, improve operational efficiency, and drive business growth in a distribution-based business.
